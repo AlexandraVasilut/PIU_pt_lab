@@ -1,0 +1,5 @@
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\ClasaCopil\obj\Debug\net6.0\ClasaCopil.csproj.AssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\ClasaCopil\obj\Debug\net6.0\ClasaCopil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\ClasaCopil\obj\Debug\net6.0\ClasaCopil.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\ClasaCopil\obj\Debug\net6.0\ClasaCopil.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\ClasaCopil\obj\Debug\net6.0\ClasaCopil.csproj.CoreCompileInputs.cache

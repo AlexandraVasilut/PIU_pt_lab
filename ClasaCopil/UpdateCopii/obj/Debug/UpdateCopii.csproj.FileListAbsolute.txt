@@ -1,0 +1,6 @@
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\bin\Debug\UpdateCopii.dll
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\bin\Debug\UpdateCopii.pdb
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\obj\Debug\UpdateCopii.csproj.AssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\obj\Debug\UpdateCopii.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\obj\Debug\UpdateCopii.dll
+C:\Users\Alexandra\OneDrive\Desktop\trimit pt lab\ClasaCopil\UpdateCopii\obj\Debug\UpdateCopii.pdb
