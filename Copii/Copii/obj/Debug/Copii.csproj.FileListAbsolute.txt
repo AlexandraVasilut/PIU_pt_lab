@@ -1,0 +1,10 @@
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.csproj.AssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\bin\Debug\Copii.exe.config
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\bin\Debug\Copii.exe
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\bin\Debug\Copii.pdb
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.csproj.CopyComplete
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.exe
+C:\Users\Alexandra\OneDrive\Desktop\incercare iar proiect pt lab PIU\Copii\Copii\obj\Debug\Copii.pdb
